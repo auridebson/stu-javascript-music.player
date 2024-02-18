@@ -1,4 +1,3 @@
-// Simulação de funções de controle do player (substitua por suas próprias funções)
 function togglePlayPause() {
     console.log('Toggle Play/Pause');
 }
